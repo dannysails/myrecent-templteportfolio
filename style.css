@@ -417,6 +417,7 @@ article .icon {
 
 .contact-icon {
   cursor: default;
+  
 }
 
 .email-icon {
@@ -433,9 +434,16 @@ footer {
 footer p {
   text-align: center;
 }
-
+/*freecodecamp logo*/
 .free{
   height: 2.26rem;
   width: 2.85rem;
   
+}
+/*adjustment in contact me*/
+.move-me{
+  margin-left: 0.4rem;
+}
+.move-icon{
+  margin-left: 0.5rem;
 }
