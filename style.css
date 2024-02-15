@@ -464,3 +464,8 @@ footer p {
 .move-icon{
   margin-left: 0.5rem;
 }
+.styleme{
+  border-radius: 50px;
+  background-color: aliceblue;
+  color: aliceblue;
+}
