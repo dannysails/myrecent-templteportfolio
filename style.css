@@ -20,7 +20,7 @@ p {
   color: rgb(85, 85, 85);
 }
 
-/* TRANSITION */
+/* TRANSITION 
 
 a,
 .btn {
@@ -234,17 +234,7 @@ section {
   padding: 1rem;
   width: 8rem;
   border-radius: 2rem;}
-  @keyframes bounce {
-    0%, 25%, 30%, 50%, 70%,  80%, 90%, 95%, 100% {
-     transform: translateY(0); }
-  15%, 40% {
-    transform: translateY(-9px); }
-    65%, 80%{
-    transform: translateY(-6px); }
-    95%{
-    transform: translateY(-1px); }}
-    :hover {
-    animation:  bounce 2s linear; }
+ 
 
 
 
@@ -431,7 +421,6 @@ article .icon {
   justify-content: center;
   gap: 0.5rem;
   margin: 1rem;}
-  
 
 
 .contact-info-container p {
@@ -475,3 +464,18 @@ footer p {
   background-color: aliceblue;
   color: aliceblue;
 }
+
+/*body {animation-name: slidein;
+  animation-duration: 3s;
+  
+}
+@keyframes slidein{
+ 
+from{
+  margin-left: 100%;
+}
+to {margin-left: 100%;
+}}*/
+
+
+
